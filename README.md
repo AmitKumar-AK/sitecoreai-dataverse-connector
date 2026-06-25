@@ -11,21 +11,21 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [What Problem Does This Solve?](#what-problem-does-this-solve)
-- [Key Features](#key-features)
-- [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [Quick Start](#quick-start)
-- [Authentication Setup](#authentication-setup)
-- [Configuration](#configuration)
-- [Usage Examples](#usage-examples)
-- [Deployment](#deployment)
-- [Troubleshooting](#troubleshooting)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-- [Resources](#resources)
-- [License](#license)
+- [Overview](#-overview)
+- [What Problem Does This Solve?](#-what-problem-does-this-solve)
+- [Key Features](#-key-features)
+- [Architecture](#️-architecture)
+- [Prerequisites](#-prerequisites)
+- [Quick Start](#-quick-start)
+- [Authentication Setup](#-authentication-setup)
+- [Configuration](#️-configuration)
+- [Usage Examples](#-usage-examples)
+- [Deployment](#-deployment)
+- [Troubleshooting](#-troubleshooting)
+- [FAQ](#-faq)
+- [Contributing](#-contributing)
+- [Resources](#-resources)
+- [License](#-license)
 
 ---
 
