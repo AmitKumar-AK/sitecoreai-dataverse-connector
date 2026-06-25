@@ -18,7 +18,6 @@
 - [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
 - [Authentication Setup](#authentication-setup)
-- [Project Structure](#project-structure)
 - [Configuration](#configuration)
 - [Usage Examples](#usage-examples)
 - [Deployment](#deployment)
@@ -191,7 +190,6 @@ This connector provides:
 ### Permissions Required
 - ✅ **Azure AD**: Ability to create App Registrations
 - ✅ **Dataverse**: System Administrator or equivalent role
-- ✅ **Note**: MSFD environments have specific restrictions - see [MSFD Setup Guide](#msfd-learning-environment-setup)
 
 ---
 
@@ -248,8 +246,6 @@ DATAVERSE_URL=https://yourorg.crm.dynamics.com
 6. Click **Create**
 7. Click **Edit security roles** → Assign **System Administrator** (or custom role)
 8. Click **Save**
-
-**Note**: If using MSFD Developer environment, see [MSFD Setup Guide](#msfd-learning-environment-setup) for workarounds.
 
 ### 5. Test Connection
 
