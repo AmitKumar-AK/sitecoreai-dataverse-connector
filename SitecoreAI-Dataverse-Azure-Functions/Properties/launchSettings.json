@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SitecoreAI_Dataverse_Azure_Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7255",
+      "launchBrowser": false
+    }
+  }
+}

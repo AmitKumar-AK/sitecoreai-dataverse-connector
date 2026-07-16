@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.37111.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreAI-Dataverse-Console-App", "SitecoreAI-Dataverse-Console-App\SitecoreAI-Dataverse-Console-App.csproj", "{5B55C34C-81D0-06BB-61F0-87A73EE2749C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreAI-Dataverse-Azure-Functions", "SitecoreAI-Dataverse-Azure-Functions\SitecoreAI-Dataverse-Azure-Functions.csproj", "{5AC9AA78-F207-E977-346B-7342EB9BCD76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5B55C34C-81D0-06BB-61F0-87A73EE2749C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B55C34C-81D0-06BB-61F0-87A73EE2749C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B55C34C-81D0-06BB-61F0-87A73EE2749C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC9AA78-F207-E977-346B-7342EB9BCD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC9AA78-F207-E977-346B-7342EB9BCD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC9AA78-F207-E977-346B-7342EB9BCD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC9AA78-F207-E977-346B-7342EB9BCD76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

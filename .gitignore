@@ -63,7 +63,7 @@ appsettings.*.json
 !appsettings.json
 *.secrets.json
 secrets.json
-local.settings.json
+#local.settings.json
 local.settings.*.json
 
 # Environment variables
